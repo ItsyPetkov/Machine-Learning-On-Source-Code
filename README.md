@@ -1,7 +1,6 @@
 # Machine-Learning-On-Source-Code
 
-A project exploring the application of **Machine Learning techniques to source code analysis**.  
-This repository demonstrates how machine learning models can be trained on source code data to extract patterns and perform classification to detect syntax errors.
+A project exploring the application of **Machine Learning techniques to source code analysis**. This repository demonstrates how machine learning models can be trained on source code data to extract patterns and perform classification to detect syntax errors.
 
 ## Overview
 
@@ -29,7 +28,15 @@ Throughtout this project I used the following technologies:
 
 These tools allow the processing of source code as data and enable machine learning experiments.
 
+## Models used
 
+- Benchmark rule-based apporach - utilized regular expressions to detect syntax errors in code.
+- K-Nearest Neighbour
+- Logistic Regression
+- Random Forest
+- Multi-Layered Perceptron
 
+## Outcomes
 
+I achieved an accuracy of 70% using this baseline of machine learning algorithms.
 
